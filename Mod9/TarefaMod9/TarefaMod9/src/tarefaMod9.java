@@ -8,7 +8,7 @@ public class tarefaMod9 {
         System.out.println("Código aluno primitivo: " + codigoAluno);
         System.out.println("Código aluno Wrapper: " + codigoAluno1);
     
-        int soma = codigoAluno1 + 8;
+        int soma = codigoAluno1 + 67;
         System.out.println("Resultado soma: " + soma);
     }
 
