@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class TarefaMod11NomeSexo {
+public class TarefaMod12 {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
